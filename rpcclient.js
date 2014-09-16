@@ -80,7 +80,7 @@
 
     var me = this;
 
-    Meteor.http.call(options.method, options.url, requestOptions, function(error, response) {
+    HTTP.call(options.method, options.url, requestOptions, function(error, response) {
       if (error) {
         callback(error);
         return;
