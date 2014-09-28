@@ -3,6 +3,8 @@ meteor-xmlrpc
 
 XMLRPC functionality for Meteor
 
+For full, original documentation click [here](https://github.com/baalexander/node-xmlrpc)
+
 #Install
 ```
 meteor add ecwyne:xmlrpc
